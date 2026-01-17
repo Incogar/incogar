@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdulrashid-ali&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
-> There are 10 types of people in the world: those who understand binary and those who don’t.
+> Focused on foundations. Committed to growth.
 
 ---
 
@@ -30,11 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 </p>
 
-### Tools & Frameworks
+### 🛠️ Tools & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
 </p>
 
 ---
