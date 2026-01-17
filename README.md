@@ -64,8 +64,13 @@ class WhoAmI:
 ---
 
 ## 🎯 **`Current Focus`**
-<p align="left"> <img src="https://img.shields.io/badge/CompTIA-Network%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/CompTIA-Security+, Network, A+ and Azure%2B%20(Planned)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/CompTIA-Network%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/CompTIA-A%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> </p>
 
 - Hands-on networking & IT labs
 - Applying for **Security / Entry-level IT roles**
 - Building real-world, documented projects
+
+---
+
+### 🛠️ **`Stats & Dev activity`**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrashid-ali&show_icons=true&theme=default)
