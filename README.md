@@ -1,4 +1,4 @@
-## Hey, I’m AR 👋  
+## Hey, I'm AR 👋
 
 ### Building discipline, skill, and purpose — one commit at a time.
 
@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/abdulrashid-ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rashid%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
 
+<p align="left">
   <a href="mailto:rashid.tech@outlook.com">
     <img src="https://img.shields.io/badge/Email-rashid.tech@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
@@ -16,8 +18,29 @@
   <img src="https://komarev.com/ghpvc/?username=abdulrashid-ali&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
+
 > Focused on foundations. Committed to growth.
 
+---
+
+## 🧠 Who Am I?
+```python
+class WhoAmI:
+    focus = "Cybersecurity & Software Foundations"
+    mindset = "Consistency > Motivation"
+
+    habits = [
+        "Early mornings & discipline",
+        "Learning security fundamentals",
+        "Building projects step by step",
+        "Fixing bugs instead of avoiding them"
+    ]
+
+    def goals_2025():
+        pass_CompTIA()
+        build_security_projects()
+        stay_consistent()
+```
 ---
 
 ## 🛠 Technologies & Skills
@@ -40,30 +63,9 @@
 
 ---
 
-## 🧠 Who Am I?
-```python
-class WhoAmI:
-    name = "AbdulRashid Ali"
-    focus = "Cybersecurity & Software Foundations"
-    mindset = "Consistency > Motivation"
-
-    habits = [
-        "Early mornings & discipline",
-        "Learning security fundamentals",
-        "Building projects step by step",
-        "Fixing bugs instead of avoiding them"
-    ]
-
-    def goals_2025():
-        pass_CompTIA()
-        build_security_projects()
-        stay_consistent()
-```
-
----
-
 ## 🎯 Current Focus
-- Studying **CompTIA Network+, Security+, A+ and Microsoft Azure**
+<p align="left"> <img src="https://img.shields.io/badge/CompTIA-Network%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/CompTIA-Security+, Network, A+ and Azure%2B%20(Planned)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> </p>
+
 - Hands-on networking & IT labs
 - Applying for **Security / Entry-level IT roles**
 - Building real-world, documented projects
