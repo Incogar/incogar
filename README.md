@@ -72,5 +72,4 @@ class WhoAmI:
 
 ---
 
-### 🛠️ **`Stats & Dev activity`**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrashid-ali&show_icons=true&theme=default)
+
