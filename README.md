@@ -1,10 +1,10 @@
-## Hey, I'm AR 👋
+## **`Hey, I'm AR`** 👋
 
-### Building discipline, skill, and purpose — one commit at a time.
+### **`Building discipline, skill, and purpose — one commit at a time.`**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulrashid-ali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rashid%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-AR%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 **`Who Am I?`**
 ```python
 class WhoAmI:
     focus = "Cybersecurity & Software Foundations"
@@ -43,9 +43,9 @@ class WhoAmI:
 ```
 ---
 
-## 🛠 Technologies & Skills
+## 🛠 **`Technologies & Skills`**
 
-### Programming Languages
+### **`Programming Languages`**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
@@ -53,7 +53,7 @@ class WhoAmI:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 </p>
 
-### 🛠️ Tools & Frameworks
+### 🛠️ **`Tools & Frameworks`**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
@@ -63,7 +63,7 @@ class WhoAmI:
 
 ---
 
-## 🎯 Current Focus
+## 🎯 **`Current Focus`**
 <p align="left"> <img src="https://img.shields.io/badge/CompTIA-Network%2B%20(In%20Progress)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/CompTIA-Security+, Network, A+ and Azure%2B%20(Planned)-E43F2A?style=for-the-badge&logo=comptia&logoColor=white"/> </p>
 
 - Hands-on networking & IT labs
